@@ -1,4 +1,4 @@
-<h1 align=center>Liva Hugo</h1> 
+<h1 align=center>Yuriko Blog</h1> 
 
 <p align=center>Liva is a modern and fully customizable minimal blog theme that will help you create any kind of website whether that's personal, travel, news, photography, tech, food, or other niches. </p>
 
